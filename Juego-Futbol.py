@@ -21,7 +21,7 @@ nivel2 = [
     {"pregunta": "¿Qué entrenador ganó la Champions con Chelsea en 2021?", "opciones": "A) Tuchel  B) Klopp  C) Guardiola", "respuesta": "A"},
     {"pregunta": "¿Qué país ganó el Mundial 2018?", "opciones": "A) Brasil  B) Francia  C) Alemania", "respuesta": "B"},
     {"pregunta": "¿Dónde jugaba Neymar antes del PSG?", "opciones": "A) Barcelona  B) Milan  C) United", "respuesta": "A"},
-    {"pregunta": "¿Cuántas Champions tiene el Real Madrid (aprox.)?", "opciones": "A) 10  B) 14  C) 7", "respuesta": "B"},
+    {"pregunta": "¿Cuántas Champions tiene el Real Madrid (aprox.)?", "opciones": "A) 10  B) 15  C) 7", "respuesta": "B"},
     {"pregunta": "¿Qué país organizó el Mundial 2014?", "opciones": "A) Brasil  B) Rusia  C) Qatar", "respuesta": "A"},
     {"pregunta": "¿Qué liga es la Premier League?", "opciones": "A) España  B) Inglaterra  C) Italia", "respuesta": "B"},
     {"pregunta": "¿Qué jugador es conocido como 'CR7'?", "opciones": "A) Cristiano Ronaldo  B) Ronaldo Nazario  C) Ribéry", "respuesta": "A"},
