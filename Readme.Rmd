@@ -1,0 +1,43 @@
+---
+output: html_document
+---
+# ⚽ Juego de Fútbol - Quiz en Python
+
+Un juego de preguntas tipo quiz sobre fútbol desarrollado en Python.  
+El jugador avanza por 3 niveles de dificultad creciente, respondiendo preguntas aleatorias sobre fútbol.
+
+---
+
+## 🎮 Cómo funciona el juego
+
+El juego está dividido en **3 niveles**:
+
+- 🟢 Nivel 1 - Calentamiento (preguntas básicas)
+- 🟡 Nivel 2 - Partido serio (nivel medio)
+- 🔴 Nivel 3 - Modo leyenda (preguntas difíciles)
+
+En cada partida:
+- Se seleccionan preguntas aleatorias
+- El jugador responde escribiendo A, B o C
+- Se suma puntuación por cada respuesta correcta
+
+---
+
+## 🧠 Objetivo
+
+Responder correctamente el mayor número de preguntas posible y alcanzar el nivel más alto:
+
+- 🔥 Leyenda del fútbol (9-12 puntos)
+- 👍 Buen fan (6-8 puntos)
+- 📚 Aficionado (0-5 puntos)
+
+---
+
+## ▶️ Cómo ejecutar el proyecto
+
+1. Instalar Python (si no lo tienes instalado)
+2. Abrir una terminal en la carpeta del proyecto
+3. Ejecutar el archivo:
+
+```bash
+python Juego-Futbol.py
